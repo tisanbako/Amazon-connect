@@ -1,4 +1,4 @@
-# 𝗔𝗺𝗮𝘇𝗼𝗻 𝗖𝗼𝗻𝗻𝗲𝗰𝘁 Inbound flow
+# 𝗔𝗺𝗮𝘇𝗼𝗻 𝗖𝗼𝗻𝗻𝗲𝗰𝘁 Contact Flow
 ![alt text](https://github.com/tisanbako/Amazon-connect/blob/main/contact-flow-images/INBOUND-CONTACT-FLOW.png)
 
 Amazon Connect is a cloud-based contact center service that makes it easy for businesses to deliver exceptional 

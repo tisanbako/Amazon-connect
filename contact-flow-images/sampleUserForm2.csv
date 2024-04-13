@@ -1,0 +1,12 @@
+﻿first name,last name,email address,secondary email,mobile,password,user login,routing profile name,security_profile_name_1|security_profile_name_2,user_hierarchy_1|user_hierarchy_2,phone type (soft/desk),phone number,soft phone auto accept (yes/no),ACW timeout (seconds),tags
+Oladele,Kamaru,,,,P@ssw0rd,oladelekamaru,Technical support Routing profile- voice,Agent,,soft,,no,0,
+Bob,Wilson,,,,P@ssw0rd,bobwilson,Customer Service Sales Routing Profile – Voice,Agent,,soft,,no,0,
+Tom ,White,,,,P@ssw0rd,tomwhite,Customer Service Sales Routing Profile – Voice,Agent,,soft,,no,0,
+Lynda,Jones,,,,P@ssw0rd,lyndawhite,Customer Service Sales Routing Profile – Voice,Agent,,soft,,no,0,
+Chris ,Anderson,,,,P@ssw0rd,chrisanderson,Sales Routing Profile -Voice,Agent,,soft,,no,0,
+Kolade,Emmanuel,,,,P@ssw0rd,koladeemmanuel,Sales Routing Profile -Voice,Agent,,soft,,no,0,
+Michael,Esene,,,,P@ssw0rd,michaelesene,Sales Routing Profile -Voice,Agent,,soft,,no,0,
+James,Obi,,,,P@ssw0rd,jamesobi,Sales Routing Profile -Voice,Agent,,soft,,no,0,
+Abu,Kiari,,,,P@ssw0rd,abukiari,Technical support Routing profile- voice,Agent,,soft,,no,0,
+Nathan,Sanusi,,,,P@ssw0rd,nathansanusi,Technical support Routing profile- voice,Agent,,soft,,no,0,
+Samuel,Osin,,,,P@ssw0rd,samuelosin,Technical support Routing profile- voice,Agent,,soft,,no,0,
